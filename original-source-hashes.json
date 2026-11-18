@@ -1,0 +1,22 @@
+﻿[
+    {
+        "Path":  "C:\\VSCODE\\translator\\app\\translator_app.py",
+        "Hash":  "96E6B17EAA0EC594E07857C33F344061CEE331D8F2CB67D73F8BF10C143D43F8"
+    },
+    {
+        "Path":  "C:\\VSCODE\\translator\\app\\audio_meter.py",
+        "Hash":  "A9A49128EBB66A0861C33310ABF120C15813E0AFF6F684241F469F9CAB880821"
+    },
+    {
+        "Path":  "C:\\VSCODE\\translator\\README.md",
+        "Hash":  "639A1AA9169C9800E6D3DB1BB068BA83A0ECA59037D6D936E508C7952392407D"
+    },
+    {
+        "Path":  "C:\\VSCODE\\translator\\setup.bat",
+        "Hash":  "09AD2011CAA64583719C98ADF14AED1358F58AB2859778A587D9D36379F725CE"
+    },
+    {
+        "Path":  "C:\\VSCODE\\translator\\run.bat",
+        "Hash":  "D296EAC7A06F4C3A822AA9D2777F5BD6AE9BF5F689295A53AEABECBF308A9DBE"
+    }
+]

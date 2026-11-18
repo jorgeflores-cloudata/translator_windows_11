@@ -1,0 +1,10 @@
+faster-whisper
+sounddevice
+keyboard
+pyperclip
+numpy
+anthropic
+openai
+keyring
+websockets
+language-tool-python
